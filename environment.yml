@@ -1,0 +1,8 @@
+name: intro-binder-gdal
+channels:
+- conda-forge
+- defaults
+dependencies:
+- gdal==3.2.2
+pip:
+- jupyterlab-spreadsheet-editor
